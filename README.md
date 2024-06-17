@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to mine VIAF for social network data based on coauthorship
 - 💞️ I’m looking to collaborate on NACO normalization for R.
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him/it
+- 😄 Pronouns: he/him
 
 
 <!---
