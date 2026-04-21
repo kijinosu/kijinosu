@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kijinosu. "kijinosu" 雉の巣 is Japanese for pheasant's nest.
-- 👀 I’m interested in Moonism and science.
-- 🌱 I’m currently learning how to mine VIAF for social network data based on coauthorship
-- 💞️ I’m looking to collaborate on NACO normalization for R.
+- 👀 I’m interested in immigration.
+- 🌱 I’m currently working on implementing shift-share analysis for immigration into Japanese.
+- 💞️ I recently release estatjp, a Python package for downloading Japanese government data.
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 
